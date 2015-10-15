@@ -5,5 +5,6 @@ public class JavaHelloWorld
 		System.out.println("Java Hello World");
 		System.out.println("Hello again");
 		System.out.println("This is new line");
+                System.out.println("This is new line2");
 	}
 }
